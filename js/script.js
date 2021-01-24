@@ -10,5 +10,3 @@ const personalMovieDB = {
     genres: [],
     privat: false
 };
-
-console.log(personalMovieDB.count);
